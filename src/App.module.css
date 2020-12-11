@@ -1,0 +1,7 @@
+
+.board {
+    --piece-size: 3rem;
+    width: calc(var(--piece-size) * 8);
+    height: calc(var(--piece-size) * 8);
+    border: 1px solid brown;
+}
